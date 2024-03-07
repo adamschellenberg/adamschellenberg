@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/adamschellenberg/adamschellenberg/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **adamschellenberg/adamschellenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
